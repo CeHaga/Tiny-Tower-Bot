@@ -9,9 +9,9 @@ A ideia do bot não é automatizar tudo, apenas a visita a amigos, mas outras au
 
 Atualmente as coordenadas estão por pixel, então só funcionará com precisão em dispositivos que possuam a mesma resolução do meu (Xiaomi Mi A2 Lite), mas em breve as coordenadas serão mudadas para porcentagem.
 
-<b>Passo 1:</b> Ter um Android. O bot não foi feito para iPhone porque não tenho nenhum produto da Apple.
-<b>Passo 2:</b> Ativar as configurações de desenvovedor e o modo de depuração usb
-<b>Passo 3:</b> Baixe o adb (https://www.xda-developers.com/install-adb-windows-macos-linux/)
-<b>Passo 4:</b> Na pasta onde baixar este código, crie uma pasta chamada "Screenshots"
-<b>Passo 5:</b> Rode o programa específico que quiser para automatizar ou chame uma outra função do arquivo functions.py
-<strike><b>Passo 6:</b> Me ensine a criar um passo a passo decente</strike>
+<b>Passo 1:</b> Ter um Android. O bot não foi feito para iPhone porque não tenho nenhum produto da Apple.<br/>
+<b>Passo 2:</b> Ativar as configurações de desenvovedor e o modo de depuração usb.<br/>
+<b>Passo 3:</b> Baixe o adb (https://www.xda-developers.com/install-adb-windows-macos-linux/).<br/>
+<b>Passo 4:</b> Na pasta onde baixar este código, crie uma pasta chamada "Screenshots".<br/>
+<b>Passo 5:</b> Rode o programa específico que quiser para automatizar ou chame uma outra função do arquivo functions.py.<br/>
+<strike><b>Passo 6:</b> Me ensine a criar um passo a passo decente.</strike><br/>
