@@ -1,8 +1,10 @@
 # Tiny-Tower-Bot
-Um bot que fiz pro Tiny Tower porque é chato visitar amigo
-A bot I made for Tiny Tower because it's boring to visit friends
+Um bot que fiz pro Tiny Tower porque é chato visitar amigo.
+
+A bot I made for Tiny Tower because it's boring to visit friends.
 
 Esse bot foi feito usando ADB (Android Debug Bridge) para comunicação com o Android e OpenCV em Python para identificação de imagens. Portanto, é necessário que seu celular esteja conectado a um computador via cabo usb com o modo de depuração usb ativo.
+
 Ele é mais lento do que uma pessoa seria, mas em compensação é possível deixar o bot rodando enquanto faz outras coisas.
 
 A ideia do bot não é automatizar tudo, apenas a visita a amigos, mas outras automatizações poderão vir com o passar do tempo. 
