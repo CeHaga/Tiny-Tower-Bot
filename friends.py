@@ -1,3 +1,3 @@
 from functions import *
 
-visit()
+visit(True)

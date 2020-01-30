@@ -158,15 +158,15 @@ def autoPlay():
         androidTap(68.9,2213)
     checkStock(lobby)
 
-def visit():
+def visit(skip = False):
     print("Starting visit")
-    firstY = [1934,1715,1544,1339,1139,942,760,560] 
+    firstY = [1934,1715,1544,1339,1139,942,760,560] if not skip else [] 
     screenshot("friends")
     img = cv.imread("Screenshots/friends.png")
     if(np.all(img[1970,530] == [0,0,0])): print("Few friends") #TODO
     else:
         print("Going down")
-        while(np.all(img[2080,530] != [24,15,3]) and np.all(img[2080,530])):
+        while(not skip and np.all(img[2080,530] != [24,15,3]) and np.all(img[2080,530])):
             androidSwipe(400,2050,400,10,1000)
             screenshot("friends")
             img = cv.imread("Screenshots/friends.png")
@@ -197,7 +197,7 @@ def visit():
             sleep(0.1)
         while(True):
             print("Going to next upward")
-            androidSwipe(414.5,1885,414.5,2059,1000)
+            androidSwipe(414.5,1885,414.5,2058,1000)
             screenshot("friends")
             img = cv.imread("Screenshots/friends.png")
             if(np.all(img[277,13] == [0,224,0])):
