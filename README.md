@@ -28,6 +28,6 @@ Actually the coordinates are per pixel, so it'll only work properly on phones wi
 
 <b>Step 1:</b> Have an Android. The bot wasn't made for iPhone because I don't own any Apple products.<br/>
 <b>Step 2:</b> Activate developer setting and USB debugging.<br/>
-<b>Step 3></b> Install ADB (https://www.xda-developers.com/install-adb-windows-macos-linux/).<br/>
+<b>Step 3:</b> Install ADB (https://www.xda-developers.com/install-adb-windows-macos-linux/).<br/>
 <b>Step 4:</b> Run the specific program or call the Python function.<br/>
 <strike><b>Step 5:</b> Teach me to make a decent README and proper functions call programs.</strike><br/>
