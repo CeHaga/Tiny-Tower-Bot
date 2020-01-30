@@ -3,7 +3,7 @@ Um bot que fiz pro Tiny Tower porque é chato visitar amigo.
 
 A bot I made for Tiny Tower because it's boring to visit friends.
 
-Esse bot foi feito usando ADB (Android Debug Bridge) para comunicação com o Android e OpenCV em Python para identificação de imagens. Portanto, é necessário que seu celular esteja conectado a um computador via cabo usb com o modo de depuração USB ativo.
+Esse bot foi feito usando ADB (Android Debug Bridge) para comunicação com o Android e OpenCV em Python para identificação de imagens. Portanto, é necessário que seu celular esteja conectado a um computador via cabo USB com o modo de depuração USB ativo.
 
 Ele é mais lento do que uma pessoa seria, mas em compensação é possível deixar o bot rodando enquanto faz outras coisas.
 
@@ -29,5 +29,5 @@ Actually the coordinates are per pixel, so it'll only work properly on phones wi
 <b>Step 1:</b> Have an Android. The bot wasn't made for iPhone because I don't own any Apple products.<br/>
 <b>Step 2:</b> Activate developer setting and USB debugging.<br/>
 <b>Step 3></b> Install ADB (https://www.xda-developers.com/install-adb-windows-macos-linux/).<br/>
-<b>Step 4:</b> Run the specific program or call the Python function.</b>
+<b>Step 4:</b> Run the specific program or call the Python function.<br/>
 <strike><b>Step 5:</b> Teach me to make a decent README and proper functions call programs.</strike><br/>
